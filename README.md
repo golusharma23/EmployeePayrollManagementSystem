@@ -102,8 +102,8 @@ Employee ID: 109
 Name: Golu Sharma
 Basic Salary: 150000.0
 Final Salary: 195000.0   (Includes 30% HRA + DA for Permanent Employees)
+<img width="1215" height="285" alt="image" src="https://github.com/user-attachments/assets/2aef6afe-adb5-4d9f-b4b9-db03b75ea2f4" />
 
-<img width="1215" height="285" alt="image" src="https://github.com/user-attachments/assets/69e51d00-6b84-4be3-baa9-c99028b0dd09" />
 
 
 👤 Author
